@@ -6,7 +6,7 @@ header img {
   display: block;
   margin-inline: auto;
   width: 12rem;
-  margin-bottom: 15px;
+  margin-bottom: 20px;
 }
 
 header div {
@@ -17,22 +17,23 @@ header div {
   border-top: 1px solid #ffd777;
   background-color: #fdfbf1;
   color: #004d4b;
+  font-size: 0.8em;
 }
 
 h1 {
   text-align: center;
   margin-top: 55px;
-  font-size: 3em;
+  font-size: 2.35em;
 }
 
 main {
   margin-inline: auto;
-  width: 770px;
+  width: 720px;
 }
 
 main img {
   width: 100%;
-  height: 400px;
+  height: 450px;
   border-radius: 10px;
 }
 
