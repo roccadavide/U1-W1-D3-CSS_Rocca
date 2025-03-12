@@ -14,7 +14,7 @@ header div {
   align-items: center;
   justify-content: center;
   height: 45px;
-  border-top: 3px solid #ffd777;
+  border-top: 1px solid #ffd777;
   background-color: #fdfbf1;
   color: #004d4b;
 }
